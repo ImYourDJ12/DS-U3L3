@@ -1,0 +1,5 @@
+1. We stop digging when all the lists are split and each only have one thing 
+in them.
+2. If the lists is longer than 1 split it.
+3. 
+4. 
